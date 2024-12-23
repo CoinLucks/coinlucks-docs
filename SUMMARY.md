@@ -29,7 +29,7 @@
   * [DiceShake](guides/games/diceshake.md)
 * [Referral System](guides/referrals/README.md)
   * [How to Invite](guides/referrals/how-to-invite.md)
-* [FAQs](guides/faqs.md)
+* [FAQs](guides/faq.md)
 
 ## Developers
 
