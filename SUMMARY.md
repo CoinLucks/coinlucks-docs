@@ -42,9 +42,12 @@
 * [Privacy Policy](learn-more/private-policy.md)
 * [Term of Use](learn-more/term-of-use.md)
 
-## Links
+***
 
 * [Contacts](contacts.md)
+
+## Links
+
 * [Website](https://coinlucks.com)
 * [Email](mailto:team@coinlucks.com)
 * [Twitter](https://x.com/coinlucks)
