@@ -12,10 +12,9 @@ description: CoinLucks The Web3 Fair-to-Win Platform for Community.
 
 ### WebApp (PC)
 
-![](../.gitbook/assets/PC1.png)
+<div data-full-width="false"><img src="../.gitbook/assets/PC1.png" alt=""></div>
 
 ![](../.gitbook/assets/PC2.png)
-
 
 ## Links
 

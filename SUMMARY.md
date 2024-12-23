@@ -14,7 +14,7 @@
 
 ## Guildes
 
-* [How it work](introduction/how-it-work.md)
+* [How it works](introduction/how-it-work.md)
 * [How to Signup](guides/how-to-signup.md)
 * [How to Get/Bridge BNB](guides/how-to-get-bnb.md)
 * [How to Play](guides/how-to-play.md)
@@ -30,7 +30,6 @@
   * [DiceShake](guides/games/diceshake.md)
 * [Referral System](guides/referrals.md)
   * [How to Invite](guides/referrals/how-to-invite.md)
-
 * [FAQs](guides/faqs.md)
 
 ## Developers
@@ -49,9 +48,10 @@
 * [Term of Use](learn-more/term-of-use.md)
 
 ## Links
+
 * [Contacts](contacts.md)
-* [Website](https://coinlucks.com) 
-* [Email](mailto:team@coinlucks.com)
+* [Website](https://coinlucks.com)
+* [Email](mailto:0xcaspod@gmail.com)
 * [Twitter](https://x.com/coinlucks)
 * [Telegram](https://t.me/CoinLucks)
 * [Discord](https://discord.io/coinlucks)
