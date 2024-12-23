@@ -12,9 +12,9 @@
 * [Roadmap](introduction/Roadmap.md)
 * [Team](introduction/team.md)
 
-## Guildes
+## Guides
 
-* [How it works](introduction/how-it-work.md)
+* [How it works](guides/how-it-work.md)
 * [How to Signup](guides/how-to-signup.md)
 * [How to Get/Bridge BNB](guides/how-to-get-bnb.md)
 * [How to Play](guides/how-to-play.md)
@@ -28,7 +28,7 @@
   * [Scratch69](guides/games/scratch69.md)
   * [CoinFlip](guides/games/coinflip.md)
   * [DiceShake](guides/games/diceshake.md)
-* [Referral System](guides/referrals.md)
+* [Referral System](guides/referrals/README.md)
   * [How to Invite](guides/referrals/how-to-invite.md)
 * [FAQs](guides/faqs.md)
 
