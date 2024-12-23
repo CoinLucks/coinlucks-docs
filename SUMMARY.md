@@ -8,7 +8,6 @@
 * [Product](introduction/product.md)
 * [Features](introduction/featrues.md)
 * [Rewards](introduction/rewards.md)
-* [Airdrop](introduction/airdrop.md)
 * [Roadmap](introduction/Roadmap.md)
 * [Team](introduction/team.md)
 
@@ -36,11 +35,7 @@
 
 * [Technology](developers/technology.md)
 * [Mainnet](developers/mainnet.md)
-  * [Mainnet Addresses](developers/mainnet-address.md)
-* [Testnets](developers/testnets.md)
-  * [Testnets Addresses](developers/testnets-address.md)
-  * [opBNB Faucet](developers/faucet.md)
-  * [opBNB Bridge](developers/bridge.md)
+* [Testnet](developers/testnets.md)
 
 ## Learn More
 
@@ -51,10 +46,9 @@
 
 * [Contacts](contacts.md)
 * [Website](https://coinlucks.com)
-* [Email](mailto:0xcaspod@gmail.com)
+* [Email](mailto:team@coinlucks.com)
 * [Twitter](https://x.com/coinlucks)
 * [Telegram](https://t.me/CoinLucks)
 * [Discord](https://discord.io/coinlucks)
 * [Medium](https://medium.com/@coinlucks)
 * [Github](https://github.com/coinlucks)
-* [WhitePager](https://docsend.com/view/wdnb8xcn2sx5vfgt)

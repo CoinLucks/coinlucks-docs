@@ -1,10 +1,8 @@
----
-description: Features and Innovations
----
-
 # Features
 
 CoinLucks is committed to creating an innovative crypto gaming platform for the community. It focuses on creative crypto games and liquidity solutions developments, as well as features and innovations such as decentralization and permissionless.
+
+### Features and Innovations
 
 #### **Fairness**
 

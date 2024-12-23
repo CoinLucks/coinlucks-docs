@@ -17,7 +17,7 @@ CoinLucks aims to create a decentralized crypto gaming platform, exploring a new
 Users can join a variety of games, enjoy global accessibility, and trust a provably fair system.
 
 * **Keywords**: Fairness, Transparency, Trustless, Permissionless
-* Built on Binance opBNB, leveraging VRF technology for random, fair, and transparent draws.
+* Built on Binance **opBNB**, leveraging VRF technology for random, fair, and transparent draws.
 * Converts Web2 users to Web3 through Telegram Mini App integration.
 
 **Key Features**:
