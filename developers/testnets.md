@@ -22,4 +22,13 @@ vrfCoordinator: 0x2B30C31a17Fe8b5dd397EF66FaFa503760D4eaF0
 
 ### opBNB Bridge
 
-[https://opbnb-testnet-bridge.bnbchain.org/](https://opbnb-testnet-bridge.bnbchain.org/)
+[https://opbnb-testnet-bridge.bnbchain.org/deposit](https://opbnb-testnet-bridge.bnbchain.org/deposit)
+
+### opBNB Testnet Network (add to your wallet)
+
+* **Network Name**: opBNB Testnet
+* **New RPC URL**: [https://opbnb-testnet-rpc.bnbchain.org](https://opbnb-testnet-rpc.bnbchain.org)
+* **Chain ID**: 5611
+* **Currency Symbol**: BNB
+* **Block Explorer URL**: [https://testnet.opbnbscan.com](https://testnet.opbnbscan.com/)
+
