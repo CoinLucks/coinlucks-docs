@@ -42,7 +42,7 @@ The CoinLucks testnet is an early-stage version of our platform, allowing users 
 * **DiceShake**: Roll a 100-sided dice and wager on outcomes like single points, ranges, or parity.
 * **Scratch69**: Match numbers in a lottery-style game for multipliers up to 10,000x.
 
-For detailed instructions, refer to [How to Play](how-to-play.md)
+For detailed instructions, refer to [How to Play](../how-to-play.md)
 {% endstep %}
 
 {% step %}
@@ -50,14 +50,26 @@ For detailed instructions, refer to [How to Play](how-to-play.md)
 
 * After winning, Click **Claim** to manually withdraw your winnings to your wallet.
 
-For detailed instructions, refer to [How to Claim](how-to-claim.md)
+For detailed instructions, refer to [How to Claim](../how-to-claim.md)
+{% endstep %}
+
+{% step %}
+#### Edit your profile
+
+* Visit your [Profile page](https://testnet.coinlucks.com/account).
+* Set nickname, Upload avatar and **Bind Telegram Account (only Telegram mini app).**
+  *
+
+      <div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="186"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 #### Provide Feedback
 
 * Join our community on [Telegram](https://t.me/CoinLucks)
-* Share your experience, report bugs, and suggest improvements. Active participants may receive rewards post-launch.
+* Share your experience, report bugs, and suggest improvements. Active participants may receive rewards post-launch. [\[Submit Form\]](https://forms.gle/YkYt759FVjwv7ADp9)
+
+
 {% endstep %}
 {% endstepper %}
 
