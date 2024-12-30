@@ -9,10 +9,10 @@ By participating in the **CoinLucks opBNB Testnet**, you will test and experienc
 #### **2. Participation Steps**
 
 1. **Follow CoinLucks Twitter**: [@CoinLucks](https://twitter.com/CoinLucks).
-2. **Join our Telegram group**: [https://t.me/oinlucks](https://t.me/oinlucks).
-3. **Test the Platform**: Connect CoinLucks using your **UXUY wallet**, participate in at least **1 game**, **1 staking action**, and bind your **Telegram account** to complete testing and experience platform features.
-4. **Retweet and tag 3 friends** to invite more people to join.
-5. **Submit feedback**: Provide screenshots or valid bug feedback from your testing process to help us optimize the platform. [\[Submit Form\]](https://forms.gle/YkYt759FVjwv7ADp9)
+2. **Join our Telegram group**: [https://t.me/CoinLucks](https://t.me/CoinLucks).
+3. **Test the Platform**: [https://t.me/CoinLucksBot/CoinLucks](https://t.me/CoinLucksBot/CoinLucks).\
+   Open CoinLucks TG mini app, and connect using your **UXUY wallet**, participate in at least **1 game**, **1 staking action**, and bind your **Telegram account** to complete testing and experience platform features.
+4. **Submit feedback**: Provide screenshots or valid bug feedback from your testing process to help us optimize the platform. [\[Submit Form\]](https://forms.gle/YkYt759FVjwv7ADp9)
 
 #### **3. Rewards & Rules**
 
@@ -54,6 +54,7 @@ During the testing process, users can submit **bug feedback**, **suggestions**, 
 * Each game’s awards are calculated separately. Therefore, if you perform well in multiple games, you may win multiple prizes.
 * Participants need to provide valid feedback in order to be eligible for awards. Users who fail to provide valid feedback will not be considered for rewards.
 * Please ensure you complete all tasks and provide relevant screenshots or feedback to be included in the evaluation.
+* About **Testnet Faucet** and **Play guides**, please refer \[[How to Play with Testnet](./)].
 
 ***
 
